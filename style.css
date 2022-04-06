@@ -89,7 +89,7 @@ h1 {
 .tooltip {
     position: absolute;
     padding: 15px;
-    width: 13em;
+    width: 30em;
     height: 7em;
     background-color: #fff;
     color: #000;
